@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "391320811340",
+    "project_id": "test-3dd12",
+    "storage_bucket": "test-3dd12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391320811340:android:4c29ced9ab71298c8c41e9",
+        "android_client_info": {
+          "package_name": "gifsearch2.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKTT0aKMvvmNhklI7zVQzZWJtC9pEKf-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391320811340:android:c83806905360bd718c41e9",
+        "android_client_info": {
+          "package_name": "searchgif.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKTT0aKMvvmNhklI7zVQzZWJtC9pEKf-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
